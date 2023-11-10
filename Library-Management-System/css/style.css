@@ -1,0 +1,72 @@
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    color: #b19b98;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #b19b98;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form input[type="text"], form input[type="number"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+form button[type="submit"] {
+    background-color:#b19b98;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+form button[type="submit"]:hover {
+    opacity: 0.8;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
