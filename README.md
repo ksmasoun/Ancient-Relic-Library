@@ -28,7 +28,7 @@ To get started with the Library Management System, follow these steps:
 
 ## Contribute
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please submit an issue or pull request. We appreciate your feedback and participation in making this Library Management System even better.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please submit an issue or pull request. Feedback is appreciated and participation in making this Library Management System even better.
 
 ## License
 
