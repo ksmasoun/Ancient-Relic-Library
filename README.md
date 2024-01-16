@@ -1,6 +1,6 @@
-# Library Management System
+# Ancient Relic's Library 
 
-The Library Management System is a web application developed using HTML, CSS, PHP, and MSSQL. It provides a comprehensive solution for managing and organizing books in a library.
+The Ancient Relic's Library is a web application developed using HTML, CSS, PHP, and MSSQL. It provides a comprehensive solution for managing and organizing books in a library.
 
 ## Key Features
 
